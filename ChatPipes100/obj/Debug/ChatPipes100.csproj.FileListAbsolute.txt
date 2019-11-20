@@ -1,0 +1,9 @@
+D:\InakiAlkiza\DESARROLLO_INTERFACES\UD 4 Acceso a Datos\ChatPipes100\ChatPipes100\bin\Debug\ChatPipes100.exe.config
+D:\InakiAlkiza\DESARROLLO_INTERFACES\UD 4 Acceso a Datos\ChatPipes100\ChatPipes100\bin\Debug\ChatPipes100.exe
+D:\InakiAlkiza\DESARROLLO_INTERFACES\UD 4 Acceso a Datos\ChatPipes100\ChatPipes100\bin\Debug\ChatPipes100.pdb
+D:\InakiAlkiza\DESARROLLO_INTERFACES\UD 4 Acceso a Datos\ChatPipes100\ChatPipes100\obj\Debug\ChatPipes100.Form1.resources
+D:\InakiAlkiza\DESARROLLO_INTERFACES\UD 4 Acceso a Datos\ChatPipes100\ChatPipes100\obj\Debug\ChatPipes100.Properties.Resources.resources
+D:\InakiAlkiza\DESARROLLO_INTERFACES\UD 4 Acceso a Datos\ChatPipes100\ChatPipes100\obj\Debug\ChatPipes100.csproj.GenerateResource.cache
+D:\InakiAlkiza\DESARROLLO_INTERFACES\UD 4 Acceso a Datos\ChatPipes100\ChatPipes100\obj\Debug\ChatPipes100.csproj.CoreCompileInputs.cache
+D:\InakiAlkiza\DESARROLLO_INTERFACES\UD 4 Acceso a Datos\ChatPipes100\ChatPipes100\obj\Debug\ChatPipes100.exe
+D:\InakiAlkiza\DESARROLLO_INTERFACES\UD 4 Acceso a Datos\ChatPipes100\ChatPipes100\obj\Debug\ChatPipes100.pdb

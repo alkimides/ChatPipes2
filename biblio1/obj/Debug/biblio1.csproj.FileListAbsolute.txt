@@ -1,0 +1,5 @@
+D:\InakiAlkiza\DESARROLLO_INTERFACES\UD 4 Acceso a Datos\ChatPipes100\biblio1\bin\Debug\biblio1.dll
+D:\InakiAlkiza\DESARROLLO_INTERFACES\UD 4 Acceso a Datos\ChatPipes100\biblio1\bin\Debug\biblio1.pdb
+D:\InakiAlkiza\DESARROLLO_INTERFACES\UD 4 Acceso a Datos\ChatPipes100\biblio1\obj\Debug\biblio1.csproj.CoreCompileInputs.cache
+D:\InakiAlkiza\DESARROLLO_INTERFACES\UD 4 Acceso a Datos\ChatPipes100\biblio1\obj\Debug\biblio1.dll
+D:\InakiAlkiza\DESARROLLO_INTERFACES\UD 4 Acceso a Datos\ChatPipes100\biblio1\obj\Debug\biblio1.pdb

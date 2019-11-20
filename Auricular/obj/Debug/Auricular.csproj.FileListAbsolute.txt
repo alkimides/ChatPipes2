@@ -1,0 +1,6 @@
+D:\InakiAlkiza\DESARROLLO_INTERFACES\UD 4 Acceso a Datos\ChatPipes100\Auricular\bin\Debug\Auricular.exe.config
+D:\InakiAlkiza\DESARROLLO_INTERFACES\UD 4 Acceso a Datos\ChatPipes100\Auricular\bin\Debug\Auricular.exe
+D:\InakiAlkiza\DESARROLLO_INTERFACES\UD 4 Acceso a Datos\ChatPipes100\Auricular\bin\Debug\Auricular.pdb
+D:\InakiAlkiza\DESARROLLO_INTERFACES\UD 4 Acceso a Datos\ChatPipes100\Auricular\obj\Debug\Auricular.csproj.CoreCompileInputs.cache
+D:\InakiAlkiza\DESARROLLO_INTERFACES\UD 4 Acceso a Datos\ChatPipes100\Auricular\obj\Debug\Auricular.exe
+D:\InakiAlkiza\DESARROLLO_INTERFACES\UD 4 Acceso a Datos\ChatPipes100\Auricular\obj\Debug\Auricular.pdb
